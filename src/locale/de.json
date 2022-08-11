@@ -1,0 +1,54 @@
+{
+    "nav": {},
+    "news": {
+        "Title_1": "News",
+        "Title_2": "Bekanntmachungen",
+        "Title_3": "Aktionen",
+        "Title_4": "Strategien"
+    },
+    "register": {
+        "Module_1_email": "Bitte E-Mail eingeben",
+        "Module_1_emailtip1": "Bitte gültige E-Mail eingeben",
+        "Module_1_emailtip2": "E-Mail darf nicht leer sein",
+        "Module_1_emailtip3": "Du hast dich bereits vorregistriert.",
+        "Module_1_emailtip4": "Voranmeldung erfolgreich!",
+        "Module_1_rule": "Registrierungsregeln",
+        "Module_1_details1": "Wenn du per E-Mail an der Vorregistrierung teilnimmst, erhältst du eine Zusatzbelohnung: 200 Diamanten + 10000 Goldmünzen.",
+        "Module_1_details2": "Nach erfolgreicher Vorregistrierung wird der Aktivierungscode der Zusatzbelohnung von offizieller Seite an deine E-Mail-Adresse verschickt, bevor das Spiel online geht.",
+        "Module_1_details3": "Wenn du dich im Apple Store oder auf Google Play vorregistrierst, empfehlen wir dir, den automatischen Download zu aktivieren. So wird das Spiel automatisch heruntergeladen und installiert, sobald es online geht.",
+        "Module_1_details4": "Pre-registration successful!"
+    },
+    "world": {
+        "Module_3_worldview1": "On January 23, 3230 AD, 10:54, the world is, as usual, functioning in an orderly fashion. No mankind could ever imagine, this highly developed and advanced world will be wiped out of history in the next 10 minutes.",
+        "Module_3_worldview2": "On January 23, 3230, 11:04, a sudden shock provoked extreme panic among the men. They fled around, only to discover that the ground beneath them had cracked, revealing the bottomless earth core.",
+        "Module_3_worldview3": "On January 23, 3230, 11:22, Earth disintegrated. The latest recording from the Hubble Space Station indicates that in addition to Earth, other star fragments have been discovered in the universe.",
+        "Module_3_worldview4": "On January 24, 3230, survivors found a space station in the universe that was unaffected by the explosion. The space station was empty, but the facilities were adequately maintained. The survivors decided to use it for shelter.And a chip was brought by the survivors who fled there, but the data contained therein cannot be read anymore.",
+        "Module_3_worldview5": "Die Welt, in der sie sich befinden, ist 3242 Jahre alt. Eine plötzliche kosmische Explosion zerschmetterte alle Sterne und zerstörte dabei fast das Universum. Die Völker, die diese Explosion überlebten, verwandelten sich alle in Monstermädchen. Glücklicherweise stießen sie im Weltraum auf ein schwebendes Heiligtum, welches sie 'Kokon' nannten. Alle überlebenden Völker hatten dabei eines gemeinsam: Sie alle beherrschten die Fähigkeit des 'Sprungs'.Nun wollen sie sich diese Fähigkeit zunutze machen, um alles wieder in Ordnung zu bringen – indem sie die über das gesamte Universum verstreuten Sternenfragmente mittels der Fähigkeit 'Sprung' zusammenweben. Das Betriebssystem der mittleren Ebene, das für diese Fähigkeit verwendet wird, scheint keine Verbindung herstellen zu können. In diesem Moment tauchst du auf und sie benötigen deine Hilfe."
+    },
+    "hero": {
+        "Module_4_roleprofile1": "Charaktername: X \n  Größe: 158 cm Gewicht: 44 kg \n Hobbies: Keine \n  Unbekannter Energiekörper, der am 6.12.3234 während eines interstellaren Flugs in einem schwarzen Loch entdeckt wurde. Dr. Westy Wood ist überzeugt davon, dass X eine entscheidende Rolle bei der Entschlüsselung der Geheimnisse des Universums spielen wird.",
+        "Module_4_roleprofile2": "Charaktername: J-001 \n Größe: 156 cm Gewicht: 44 kg \n Hobby: Die Blume auf dem Kopf gießen \n KI Nr. J-001 der Kokonbasis. Ihr Körper wurde von Westy Wood konstruiert. Die Bewusstseinssteuerung erfolgt mittels eines in der Kokonbasis entdeckten mysteriösen Computerchips. Ist seit ihrer Aktivierung aus unbekanntem Grund äußerst besorgt wegen eines uralten Geräts und keiner weiß, warum.",
+        "Module_4_roleprofile3": "Charaktername: Doranana \n Größe: 152 cm Gewicht: 41 kg \n Hobby: Tagträume \n Den Untersuchungen zufolge lebte Doranana nach der Explosion des Planeten allein in einem Schutzraum. Weil sie solche Angst hatte, dass sie nach dem Verlassen des Schutzraumes von den Rissen des zersplitterten Planeten verschluckt werden würde, fristete sie ein einsames Dasein. Ihre Angst vor der Außenwelt und ihr Wunsch, den gefährlichen Planeten zu verlassen, sind ein Widerspruch in sich.",
+        "Module_4_roleprofile5": "Charaktername: Scarlett \n Größe: 154 cm Gewicht: 43 kg \n Hobbies: Alle möglichen Knochen, sich für Unterdrückte einsetzen, Rockmusik hören \n Scarlett ist ein mutierter Husky, die am 7.11.3253 auf einem Fragment der Erde entdeckt wurde. Ihr Mutationsgrad ist niedrig und sie hat die meisten ursprünglichen Eigenschaften beibehalten. Äußerlich und von ihrer Intelligenz her ist sie auf dem Stand eines 16-jährigen Menschen.",
+        "Module_4_roleprofile7": "Charaktername: Patch \n Größe: 172 cm Gewicht: 65 kg \n Hobbies: Im Wind stehen \n Patch sieht einem Braunbären von der Erde verblüffend ähnlich, auf ihrem Kopf trägt sie Schmuck in Form eines Vogelnests. Bei der Registrierung der Leaper-Akten kam es zu mehreren Missverständnissen. Es wurde bestätigt, dass Patch tatsächlich kein Braunbär von der Erde ist. Es lässt sich aber nicht ausschließen, dass ihre Vorfahren Verbindungen zur Erde hatten.",
+        "Module_4_roleprofile9": "Charaktername: Tako \n Größe: 152 cm Gewicht: 40 kg \n Hobbies: Hat die Gewohnheit des Sonnenbadens beibehalten \n Aufgrund ihres naiven Gemüts wurde sie als kostenlose Arbeitskraft in einem Barbecue-Restaurant missbraucht und gab sich als Kreatur mit dem Namen Cherrytomate aus. Bei Befragungen spricht Tako die Wahrheit jedoch immer schnell aus.",
+        "Module_4_roleprofile10": "Charaktername: Westy Wood \n Größe: 164 cm  Gewicht: 46 kg \n Hobbies: Erforschen der gesamten Wissenschaft \n Westy Wood, Mensch, als Spitzenforscherin ist sie für sämtliche wissenschaftlichen Arbeiten auf der Basis zuständig. Die meiste Zeit schließt sie sich im Labor ein und forscht an wissenschaftlichen Mysterien, die sie noch nicht versteht. Wie zum Beispiel der Chip von J-001.",
+        "Module_4_roleprofile6": "Charaktername: Peru \n Größe: 165 cm Gewicht: 55 kg \n Hobbies: Geld verdienen und sparen \n Seit Perus Ankunft erstrahlt die Kokonbasis in neuem Glanz. Peru scheint unerschöpfliche Möglichkeiten zu haben, um an Ressourcen zu gelangen, die zur Konstruktion und im Alltag dringend benötigt werden. Selbstverständlich immer gegen Bezahlung. Gleichzeitig drängt Peru die Leaper auch ständig dazu, Dinge zu kaufen, die sie in Wirklichkeit gar nicht benötigen.",
+        "Module_4_roleprofile4": "Charaktername: DD \n Größe: 155 cm Gewicht: 44 kg \n Hobbies: Edler schwarzer Tee \n Fräulein DD ist sanft und freundlich, aber auch ziemlich nah am Wasser gebaut. Immer wieder passiert es, dass die aufgetretene Probleme löst, während sie dabei wie ein Schlosshund heult. Aktuell gilt sie als besonderes Mitglied der Basis.  Obwohl sie keinen häufigen Kontakt mit den Anderen hat, genießt sie doch einen guten Ruf unter den Leapern der Basis.",
+        "Module_4_roleprofile8": "Charaktername: Miyamoto Ritsuko \n Größe: 140 cm  Gewicht: 100kg \n Hobbies: Spiele spielen \n Aufgrund ihrer veralteten Bauweise und fehlender Ersatzteile ist Miyamoto Ritsuko die einzige intelligente Maschine in der Kokonbasis, die noch immer jeden Tag aufgeladen werden muss. Falls ihr Miyamoto Ritsuko mit einem leerem Akku findet, egal in welcher Ecke sie sich befindet, bringt sie bitte unbedingt zu ihrer Ladestation zurück."
+    },
+    "map": {
+        "Module_5_map4": "Ein Planet, reich an Kristallen und verschiedenen Erzen. Das Phänomen der Kristallisierung tritt an vielen Stellen seiner Oberfläche und an Gebäuden auf, kann Leapern aber nichts anhaben. Der Planet wurde schon mehrmals untersucht und kann jederzeit gewebt werden.",
+        "Module_5_map3": "Ein Planet, durch den Flüsse aus Lava fließen und der im Universum für sein Barbecue und seine Gladiatorenkämpfe berühmt ist. Achtung: Die Oberflächentemperatur dieses Planeten beträgt mehr als 1000 Grad Celsius. Leaper, die ihn untersuchen, müssen unbedingt Kühlsysteme mit sich tragen!",
+        "Module_5_map2": "Dieser Planet ist voller Meeresorganismen und Korallen, deren Kronen ihn umhüllen. Durch die jahrelange kosmische Bestrahlung wurden die Kronen in einigen Regionen sichtbar in Mitleidenschaft gezogen.",
+        "Module_5_map6": "Ein dunkler, von chaotischer Energie umgebener Planet. Die an der Oberfläche austretende Chaos-Energie hat viele Straßen unterbrochen, die Pflanzen wurden schon lange kontaminiert. Es ist ein gefährlicher Planet mir einer komplizierten Umwelt.",
+        "Module_5_map1": "Ein Planet der Ordnung, dessen Technologie und Zivilisation sehr weit entwickelt sind. Er verfügt über eine hervorragend ausgebaute Industrie sowie ein perfektes Stromnetz. Seine Entwicklung tendiert insgesamt zu Stabilität.",
+        "Module_5_map5": "Wird aus mehreren, in der Luft schwebenden Inseln gebildet. Auf den Inseln wird Strom hauptsächlich durch Windkraft erzeugt und es existiert ein lückenloses Luftverkehrsnetz. Die verschiedenen Inseln haben unterschiedliche Funktionen.",
+        "Module_5_name4": "Stein-233",
+        "Module_5_name3": "Flamme-237",
+        "Module_5_name2": "Flüssigkeit-259",
+        "Module_5_name6": "Chaos-286",
+        "Module_5_name1": "Ordnung-314",
+        "Module_5_name5": "Vent-297"
+    }
+}

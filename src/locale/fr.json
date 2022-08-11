@@ -1,0 +1,54 @@
+{
+    "nav": {},
+    "news": {
+        "Title_1": "Infos",
+        "Title_2": "Annonces",
+        "Title_3": "Événements",
+        "Title_4": "Stratégie"
+    },
+    "register": {
+        "Module_1_email": "Veuillez saisir votre e-mail.",
+        "Module_1_emailtip1": "Veuillez saisir un e-mail correct.",
+        "Module_1_emailtip2": "L'e-mail ne peut être vide.",
+        "Module_1_emailtip3": "Vous vous êtes déjà préinscrit(e).",
+        "Module_1_emailtip4": "Pré-inscription réussie!",
+        "Module_1_rule": "Règles de Préinscription",
+        "Module_1_details1": "L'utilisation d'une adresse électronique pour se préinscrire permet d'obtenir : 200 Diamants + 10000 Pièces de Leaper.",
+        "Module_1_details2": "Après votre préinscription, nous vous enverrons un code d'activation de récompense supplémentaire sur votre e-mail avant le lancement du jeu. Vous pourrez échanger ce code contre une récompense après le lancement officiel du jeu.",
+        "Module_1_details3": "Le jeu sera téléchargé automatiquement à son lancement pour les joueurs qui se sont préinscrits via Apple Store ou Google Play.",
+        "Module_1_details4": "Pre-registration successful!"
+    },
+    "world": {
+        "Module_3_worldview1": "Le 23 janvier 3230 de notre ère à 10 h 54, tout se passait à merveille. L'humanité ne pouvait pas imaginer que le monde, qui avait atteint un niveau de développement technologique et civilisationnel sans précédent, serait complètement détruit en dix minutes.",
+        "Module_3_worldview2": "Le 23 janvier 3230 de notre ère à 11 h 04, une secousse soudaine et violente a semé la panique chez les humains. Ces derniers se sont mis à l'abri, mais ils se sont rendus compte que la Terre se fissurait sous leurs pieds, révélant un noyau terrestre profond.",
+        "Module_3_worldview3": "Le 23 janvier 3230 de notre ère à 11 h 22, la Terre s'est désintégrée. Les derniers enregistrements de la station spatiale Hubble indiquent que des morceaux d'autres planètes ont été trouvés dans l'univers.",
+        "Module_3_worldview4": "Le 24 janvier 3230 de notre ère, quelques survivants ont trouvé dans l'univers une station spatiale qui n'a pas été touchée par l'explosion. La station était vide, mais les installations étaient intactes. Les survivants ont décidé de l'utiliser comme base de refuge. Ils ont trouvé une puce dans cet endroit, mais ses données n'étaient plus lisibles...",
+        "Module_3_worldview5": "Ils vivent dans un monde en l'an 3242, où toutes les planètes ont été brisées après une explosion cosmique soudaine qui a presque anéanti l'univers, et où toutes les espèces qui ont survécu à l'explosion ont été transformées en créatures féminines magiques. Heureusement, ils ont trouvé un refuge flottant dans l'univers, qu'ils ont nommé 'Cocon'. Les espèces qui ont survécu avaient une chose en commun, elles avaient toutes la capacité de 'sauter'. Elles veulent maintenant utiliser ce pouvoir pour remettre les choses en place — c'est à dire assembler les morceaux de planètes éparpillés dans l'univers en utilisant leur pouvoir de 'saut'. Le système d'exploitation intermédiaire qu'elles utilisent pour exercer cette capacité semble ne plus être connecté. Il se trouve que vous arrivez au bon moment, elles ont besoin de votre aide."
+    },
+    "hero": {
+        "Module_4_roleprofile1": "Nom : X \n  Taille : 158 cm Poids : 44 kg \n Passe-temps : aucun \n Un corps énergétique inconnu, découvert dans un trou noir lors d'un vol interstellaire le 6 décembre 3234 et identifié par Westy Wood comme la clé permettant de percer les secrets de l'univers.",
+        "Module_4_roleprofile2": "Nom du personnage : J-001 \n Taille : 156 cm Poids : 44 kg \n Loisir : arroser les fleurs sur sa tête \n J-001 était autrefois l'IA de Cocon, son corps physique a été créé par Westy Wood, tandis que sa conscience a été ramenée à la vie un jour par une mystérieuse micro-puce trouvée dans Cocon.  Depuis qu'elle a été activée, elle a manifesté un intérêt particulier pour un pièce d'équipement antique très ancienne, et personne ne sait exactement pourquoi. ",
+        "Module_4_roleprofile3": "Nom : Doranana \n Taille : 152 cm Poids : 41 kg \n Loisir : rêvasser \n Selon les rapports, après l'explosion de la planète, Doranana a vécu seule dans un refuge, de peur d'être engloutie par les fissures de la planète, elle a donc mené une vie solitaire. Elle était très partagée entre la peur du monde extérieur et le désir de quitter cette planète dangereuse.",
+        "Module_4_roleprofile5": "Nom : Scarlett \n Taille : 154 cm Poids : 43 kg \n Passe-temps : collectionner des os, se battre contre l'injustice et écouter du rock. \n Scarlett est une Husky mutante qui a été trouvée le 7 novembre 3253 sur des débris de la Terre, avec un faible degré de mutation, conservant essentiellement ses caractéristiques originales ; elle a à peu près l'apparence et les facultés mentales d'un humain de 16 ans.",
+        "Module_4_roleprofile7": "Nom : Patch \n Taille : 172 cm Poids : 65 kg \n Passe-temps : prendre de la fraîcheur en s'exposant au vent \n La ressemblance de Patch avec un ours brun et l'ornement en forme de nid d'oiseau qu'elle porte sur la tête ont été à l'origine de nombreux malentendus lors de son enregistrement. Il a été confirmé que Patch n'est effectivement pas un ours brun terrien, mais la possibilité d'un lien ancestral avec la Terre ne peut être exclue.",
+        "Module_4_roleprofile9": "Nom : Tako \n Taille : 152 cm Poids : 40 kg \n Passe-temps : elle aime se prélasser au soleil \n En raison de son innocence, elle s'est fait berner pour travailler comme employée de jour dans une rôtisserie, où elle prétendait être une créature appelée Tomate cerise. Mais dans les conversations rapides, Tako ne tarde pas à avouer la vérité.",
+        "Module_4_roleprofile10": "Nom : Westy Wood \n Taille : 164 cm  Poids : 46 kg \n Passe-temps : explorer tout ce qui relève de la science \n Westy Wood est un humain chercheur de haut niveau et la seule responsable de toutes les affaires scientifiques de la base. La plupart du temps, elle s'enferme dans son laboratoire, explorant les mystères scientifiques qu'elle n'a pas encore compris, par exemple la puce de J-001.",
+        "Module_4_roleprofile6": "Nom : Peru \n Taille : 165 cm Poids : 55 kg \n Passe-temps : gagner et épargner de l'argent \n La base de Cocon, qui était délabrée, a été soudainement revitalisée par l'arrivée de Peru. Cette dernière semble disposer d'une réserve inépuisable de fournitures dont les gens ont désespérément besoin pour construire et vivre ; et bien sûr, ce n'est pas gratuit. Par ailleurs, Peru sait toujours comment persuader les Leapers à acheter des fournitures dont ils n'ont pas réellement besoin.",
+        "Module_4_roleprofile4": "Nom du personnage : DD \n Taille : 155 cm Poids : 44 kg \n Loisir : faire du thé noir \n Mlle DD est une personne douce, gentille mais pleurnicharde qui pleure toujours lorsqu'elle fait face aux problèmes qui se présentent à elle. Actuellement membre spécial de la base, elle n'est pas souvent en contact avec les autres, mais a une excellente réputation parmi les Leapers de la base.",
+        "Module_4_roleprofile8": "Nom : Miyamoto Ritsuko \n Taille : 140 cm  Poids : 100 kg \n Passe-temps : jouer \n Avec une vielle carcasse et sans pièces de rechange, Miyamoto Ritsuko est la seule machine intelligente de Cocon qui a encore besoin d'être rechargée quotidiennement. Bref, où que vous la trouviez à court de charge, veuillez la ramener à sa borne de recharge."
+    },
+    "map": {
+        "Module_5_map4": "Cette planète regorge de cristaux et de toutes sortes de dépôts minéraux. Les effets de la cristallisation sont apparents sur sa géographie et ses bâtiments en de nombreux endroits, mais ils n'affectent pas les Leapers. Des missions de reconnaissance ont été effectuées sur cette planète à plusieurs reprises. Son tissage peut donc commencer à tout moment.",
+        "Module_5_map3": "Cette planète couverte de rivières de lave en fusion était autrefois célèbre dans tout l'univers pour sa viande rôtie et ses compétitions de gladiateurs. Avertissement : La température à la surface de la planète est supérieure à 1000 degrés Celsius, les Leapers doivent s'équiper de matériel de refroidissement lors des missions de reconnaissance !",
+        "Module_5_map2": "Toute la surface de cette planète regorge d'êtres marins et est couverte de coraux qui ont même formé des canopées qui s'étendent au-dessus de la surface de l'eau. Sous l'influence de la trajectoire que suit la planète, de grandes zones de corail ont été sévèrement endommagées.",
+        "Module_5_map6": "Cette planète sombre a été entièrement entourée d'énergie entropique, laissant la plupart des routes de la surface sillonnées par l'énergie du Chaos et les plantes et la végétation totalement corrompues. L'environnement de cette planète est extrêmement complexe et très dangereux.",
+        "Module_5_map1": "La civilisation de cette planète est bien ordonnée, le niveau de développement technologique et industriel est très élevé, et les systèmes électriques fonctionnent de manière fiable. Globalement, la planète tend vers la stabilité.",
+        "Module_5_map5": "Les surfaces habitées de cette planète sont composées de groupes d'îles flottant dans le ciel. Ces îles produisent de l'électricité grâce à l'énergie éolienne et ont développé un système avancé de communication et de transport. Différents groupes d'îles sont chargés de diverses fonctions et spécialisations.",
+        "Module_5_name4": "Roche - 233",
+        "Module_5_name3": "Flamme - 237",
+        "Module_5_name2": "Liquide - 259",
+        "Module_5_name6": "Chaos-286",
+        "Module_5_name1": "Ordre - 314",
+        "Module_5_name5": "Vent - 297"
+    }
+}

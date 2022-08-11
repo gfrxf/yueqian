@@ -1,0 +1,54 @@
+{
+    "nav": {},
+    "news": {
+        "Title_1": "News",
+        "Title_2": "Announcement",
+        "Title_3": "Events",
+        "Title_4": "Guides"
+    },
+    "register": {
+        "Module_1_email": "Please enter your e-mail",
+        "Module_1_emailtip1": "Please enter the correct e-mail address.",
+        "Module_1_emailtip2": "E-mail can not be empty.",
+        "Module_1_emailtip3": "This e-mail has already been registered.",
+        "Module_1_emailtip4": "Pre-registration successful!",
+        "Module_1_rule": "Pre-Registration Rules",
+        "Module_1_details1": "Pre-register with your email to receive additional rewards: Diamonds *200 + Leaper Coins *10000!",
+        "Module_1_details2": "After pre-registering, an activation code will be emailed to you before the game goes online, and it can be used to redeem in-game rewards once the game is officially released.",
+        "Module_1_details3": "We recommend selecting Auto-Download when you pre-register so that the game will automatically be installed as soon as it goes online.",
+        "Module_1_details4": "Pre-registration successful!"
+    },
+    "world": {
+        "Module_3_worldview1": "On January 23, 3230 AD, 10:54, the world is, as usual, functioning in an orderly fashion. No mankind could ever imagine, this highly developed and advanced world will be wiped out of history in the next 10 minutes.",
+        "Module_3_worldview2": "On January 23, 3230, 11:04, a sudden shock provoked extreme panic among the men. They fled around, only to discover that the ground beneath them had cracked, revealing the bottomless earth core.",
+        "Module_3_worldview3": "On January 23, 3230, 11:22, Earth disintegrated. The latest recording from the Hubble Space Station indicates that in addition to Earth, other star fragments have been discovered in the universe.",
+        "Module_3_worldview4": "On January 24, 3230, survivors found a space station in the universe that was unaffected by the explosion. The space station was empty, but the facilities were adequately maintained. The survivors decided to use it for shelter.And a chip was brought by the survivors who fled there, but the data contained therein cannot be read anymore.",
+        "Module_3_worldview5": "They were in a world of 3242 AD. After undergoing a sudden cosmic explosion, all the stars were torn apart, and the universe was nearly destroyed during this explosive disaster. Those species that survived were transcended into magic girls.Fortunately, they found a shelter floating around the universe, and they called it 'Cocoon'. Survivor species all have one thing in common, they all can 'leap'. Now they want to use this power to re-establish everything before the explosion. Connect fragments of stars scattered throughout the universe using the 'leap' power. However, the operation center used to perform this ability seems to be offline, and you come in all of a sudden so that they need your help."
+    },
+    "hero": {
+        "Module_4_roleprofile1": "Character Name: X \n  Height: 158 cm Weight: 44 kg \n Likes: Nothing \n An entity composed of an unknown type of energy was discovered in a black hole during interstellar flight on December 6th, 3234, and was subsequently identified by Dr. Westy Wood as the key to unlocking the secrets of the universe.",
+        "Module_4_roleprofile2": "Character Name: J-001 \n Height: 156 cm Weight: 44 kg \n Hobbies: Watering the flower on her head \n She was once AI J-001 of Cocoon, her physical body was created by Westy Wood, while her consciousness was brought to life one day by a mysterious microchip found in Cocoon. After she was activated, she showed extraordinary affection for a certain ancient piece of equipment, though nobody knows why.",
+        "Module_4_roleprofile3": "Character Name: Doranana \n Height: 152 cm Weight: 41 kg \n Hobbies: Daydreaming \n According to reports, after her planet exploded Doranana lived alone in a Sanctuary and was constantly afraid that she would be swallowed up by the rift left on the planet if she went out her door. She was conflicted between a fear of the outside world and the hope of leaving a dangerous planet.",
+        "Module_4_roleprofile5": "Character Name: Scarlett \n Height: 154 cm Weight: 43 kg \n Hobbies: Defending wronged parties from injustice, listening to rock n' roll, likes all kinds of bones \n A Husky named Scarlett was discovered with a low level of Alienation on the fragments of Earth on November 7, 3253. She retained most of the characteristics of her original species, while her outer appearance and psychological maturity were the same as a 16-year-old human girl.",
+        "Module_4_roleprofile7": "Character Name: Patch \n Height: 172 cm Weight: 65 kg \n Hobbies: Enjoying a nice breeze~ \n Patch resembles the brown bears of Earth and she has a bird's nest-shaped decoration on top of her head, all of which caused several misunderstandings during Leaper registration. It has since been confirmed that she is not a brown bear from Earth, though the possibility that her ancestors are somehow related remains.",
+        "Module_4_roleprofile9": "Character Name: Tako \n Height: 152 cm Weight: 40 kg \n Hobbies: Still loves to lay around in the sun \n Tako claims that was tricked into working for free at a steak house. She frequently pretends to be something called a “Mini Mato.” If a conversation continues long enough, Tako quickly tells the truth of any situation.",
+        "Module_4_roleprofile10": "Character Name: Westy Wood \n Height: 164 cm  Weight: 46 kg \n Likes: Everything about science \n The human Westy Wood is a top researcher responsible for all the scientific research conducted on Base.She spends most of her time in the lab exploring scientific mysteries she has yet to unravel-- such as J-001's microchip.",
+        "Module_4_roleprofile6": "Character Name: Peru \n Height: 165 cm Weight: 55 kg \n Likes: Making money and saving money \n Cocoon had long been in ruins, but was suddenly brought to life by the arrival of Peru. She seems to have an inexhaustible number of methods for procuring the urgently needed construction materials needed for building a base, though her services are, of course, never given for free. Peru is very good at cajoling other Leapers into buying things they don't really need.",
+        "Module_4_roleprofile4": "Character Name: DD  \n Height: 155 cm Weight: 44 kg \n Hobbies: Tea expert \n DD is gentle and kind but she cries quite easily, she can often be found working through difficult problems in her work while sniffling and wiping away tears. As a special member of Cocoon, although she doesn't often come into contact with the other Leapers, her reputation throughout the base is very good.",
+        "Module_4_roleprofile8": "Character Name: Miyamoto Ritsuko \n Height: 140 cm  Weight: 100 kg \n Hobbies: Playing games \n Because her hardware is so old and no replacement parts are available, Miyamoto Ritsuko is the only sentient machine on Cocoon that still needs to recharge every day. If anyone ever finds her unresponsiveness in a corner somewhere, please be sure to bring her to a designated recharge station."
+    },
+    "map": {
+        "Module_5_map4": "This planet is teeming with crystals and all kinds of mineral deposits, the effects of crystallization are apparent on the geography and buildings in many places. Reconnaissance has been conducted on this planet several times and Weaving can begin at any time.",
+        "Module_5_map3": "This planet is covered with rivers of molten lava but was once famous throughout the universe for its roast meat and gladiator competitions. Warning: The surface temperature of the planet is above 1000 degrees Celsius, Leapers are required to equip cooling equipment while conducting reconnaissance missions!",
+        "Module_5_map2": "The entire surface of this planet is teeming with sea life and covered in coral that has even formed canopies that extend above the surface of the water. Under the influence of the trajectory the planet is traveling on, large areas of coral have been severely damaged.",
+        "Module_5_map6": "This dark planet has been entirely surrounded by entropic energy, leaving most of the roads on the surface crisscrossed with Chaos energy and the plants and vegetation totally corrupted. The environment on this planet is extremely complex and highly dangerous.",
+        "Module_5_map1": "This civilization of this planet is well ordered, the technological and industrial level of development is very high, and electrical systems function reliably. Overall, the planet tends towards stability.",
+        "Module_5_map5": "The inhabited surfaces of this planet are composed of groups of islands floating in the sky. The islands generate electricity using wind power and have developed an advanced system of communication and transport. Different groups of islands are responsible for various functions and specializations.",
+        "Module_5_name4": "Stone-233",
+        "Module_5_name3": "Flame-237",
+        "Module_5_name2": "Liquid-259",
+        "Module_5_name6": "Chaos-286",
+        "Module_5_name1": "Order-314",
+        "Module_5_name5": "Wind-297"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "nav": {},
+    "news": {
+        "Title_1": "Novidades",
+        "Title_2": "Anúncios",
+        "Title_3": "Eventos",
+        "Title_4": "Estratégias"
+    },
+    "register": {
+        "Module_1_email": "Por favor, insira seu e-mail",
+        "Module_1_emailtip1": "Por favor, insira um e-mail correto",
+        "Module_1_emailtip2": "O e-mail não pode estar vazio",
+        "Module_1_emailtip3": "Você já fez o Pré-Registro.",
+        "Module_1_emailtip4": "Pré-inscrição realizada com sucesso!",
+        "Module_1_rule": "Regras de Registro",
+        "Module_1_details1": "Pré-registre-se via e-mail e receba prêmios: 200 diamantes + 10.000 ouro.",
+        "Module_1_details2": "Depois que o pré-registro for realizado, enviaremos um código para o e-mail informado no seu pré-registro (antes do lançamento do jogo). Após o lançamento, você poderá resgatar a recompensa.",
+        "Module_1_details3": "Ao fazer o pré-registro na Apple ou Google Play Store, é recomendável que você selecione o “Download automático”, para que o jogo seja baixado automaticamente quando for lançado.",
+        "Module_1_details4": "Pre-registration successful!"
+    },
+    "world": {
+        "Module_3_worldview1": "On January 23, 3230 AD, 10:54, the world is, as usual, functioning in an orderly fashion. No mankind could ever imagine, this highly developed and advanced world will be wiped out of history in the next 10 minutes.",
+        "Module_3_worldview2": "On January 23, 3230, 11:04, a sudden shock provoked extreme panic among the men. They fled around, only to discover that the ground beneath them had cracked, revealing the bottomless earth core.",
+        "Module_3_worldview3": "On January 23, 3230, 11:22, Earth disintegrated. The latest recording from the Hubble Space Station indicates that in addition to Earth, other star fragments have been discovered in the universe.",
+        "Module_3_worldview4": "On January 24, 3230, survivors found a space station in the universe that was unaffected by the explosion. The space station was empty, but the facilities were adequately maintained. The survivors decided to use it for shelter.And a chip was brought by the survivors who fled there, but the data contained therein cannot be read anymore.",
+        "Module_3_worldview5": "Elas vivem no ano de 3242, em um mundo onde todas as estrelas foram estilhaçadas por uma súbita explosão cósmica que quase dizimou o universo... Todas as espécies que sobreviveram à explosão foram transformadas em criaturas mágicas. Felizmente, elas encontraram um refúgio que flutuava no universo, e o nomearam de “Casulo”. As espécies sobreviventes têm uma coisa em comum: a capacidade denominada “Leap”.Agora, elas querem usar essa capacidade para tentar restaurar tudo ao seu estado original. Como? Usando seu poder “Leap” para tecer e juntar os vários fragmentos de estrelas espalhados no universo. Só que, o sistema operacional da central usada para executar essa habilidade não parece estar conectando e, nesse exato momento, você apareceu... e elas precisam da sua ajuda!"
+    },
+    "hero": {
+        "Module_4_roleprofile1": "Nome do Personagem: X \n  Altura: 158cm Peso: 44kg \n Hobby: Nenhum \n Corpo energético desconhecido. Foi descoberta em um buraco negro durante um voo interestelar em 6 de dezembro de 3234, e identificada pela Dra. Westwood como sendo a chave para desvendar os segredos do universo.",
+        "Module_4_roleprofile2": "Nome do Personagem: J-001 \n Altura: 156 cm Peso: 44 kg \n Hobby: Regar a flor que fica em sua cabeça \n IA (inteligência artificial) de esquema de numeração inteligente J-001 da Base do Casulo, seu corpo físico foi criado por Westwood, e o impulso de sua consciência é um chip misterioso encontrado na Base do Casulo. Depois que ela foi ativada, ela demonstrou uma afeição extraordinária por um certo equipamento antigo, embora ninguém saiba por quê. ",
+        "Module_4_roleprofile3": "Nome do Personagem: Doranana \n Altura: 152 cm Peso: 41 kg \n Hobby: Sonhar acordado \n Segundo relatos, depois que seu planeta explodiu, Doranana viveu sozinha em um abrigo, temendo ser engolida pela rachadura formada no planeta caso fosse para a rua. O medo de encarar o mundo exterior e a esperança em deixar o planeta perigoso para encontrar um lugar melhor a deixava em grande conflito.",
+        "Module_4_roleprofile5": "Nome do Personagem: Scarlett \n Altura: 154cm Peso: 43kg \n Hobby: todos os tipos de ossos, lutar pela justiça, ouvir rock and roll \n A mutante Scarlett, foi descoberta em detritos da Terra em 7 de novembro de 3253. O grau da mutação é baixo, e as características originais da espécie estão bem preservadas. Tem a aparência e mente de uma humana de 16 anos de idade.",
+        "Module_4_roleprofile7": "Nome do Personagem: Patch \n Altura: 172cm Peso: 65kg \n Hobby: Assoprar \n A aparência da Patch assemelha-se à de um urso castanho da Terra. Existe uma decoração em forma de ninho de pássaro no topo de sua cabeça, o que causou muitos mal-entendidos durante o processo de registo do seu perfil Leaper. Já foi confirmado que a Patch não é um urso castanho da Terra, mas a possibilidade de uma eventual ligação ancestral à Terra não pode ser excluída.",
+        "Module_4_roleprofile9": "Nome do Personagem: Tako \n Altura: 152cm Peso: 40kg \n Hobby: tem o hábito de tomar banho de sol \n Devido a sua ingenuidade, Tako afirma ter sido enganada para trabalhar de graça em uma churrascaria. Ela gosta de se disfarçar como uma criatura chamada “Mini Mato”, que tem a forma de um tomate cereja... mas se você questioná-la em uma conversa rápida, Tako logo entrega a verdade sobre qualquer coisa.",
+        "Module_4_roleprofile10": "Nome do Personagem: Westwood \n Altura: 164cm  Peso: 46kg \n Hobby: explorar todas as coisas científicas. \n A Westwood é uma humana, e por ser uma pesquisadora de ponta, se encarrega de realizar todo o conteúdo de pesquisa científica da base. Na maior parte do tempo, se tranca no laboratório, para explorar pelos mistérios científicos que ainda não entendeu, um deles é o chip da J-001.",
+        "Module_4_roleprofile6": "Nome do Personagem: Pier \n Altura: 165cm Peso: 55kg \n Hobby: ganhar e guardar dinheiro. \n A Base do Casulo, que estava em ruínas, foi de repente revitalizada com a chegada de Pier. A Pier parece ter um suprimento inesgotável de suprimentos desesperadamente necessários para a construção e a vida da base, e é claro, o pagamento é uma obrigação. Ao mesmo tempo, Pier é sempre capaz de persuadir os Leapers a comprar suprimentos que na realidade eles não precisam.",
+        "Module_4_roleprofile4": "Nome do Personagem: DD \n Altura: 155 cm Peso: 44 kg \n Hobby: Chá Preto \n DD é gentil e prestativa, mas ela chora com bastante facilidade. Você a verá muitas vezes resolvendo problemas difíceis em seu trabalho enquanto assoa o nariz e enxuga lágrimas. É um membro especial da Base do Casulo, embora ela não entre em contato frequentemente com os outros Leapers, sua reputação em toda a base é muito boa.",
+        "Module_4_roleprofile8": "Nome do Personagem: Miyamoto \n Altura: 140cm  Peso: 100kg \n Hobby: Jogar videogame \n Como o seu corpo é muito antigo e não há peças de reposição, Miyamoto se tornou a única máquina inteligente que ainda precisa ser carregada diariamente na Base do Casulo. Em suma, não importa onde você encontre a Leaper Miyamoto, caso ela esteja sem carga, leve-a à estação de carregamento exclusiva."   
+    },
+    "map": {
+        "Module_5_map4": "Este planeta está repleto de cristais e todos os tipos de depósitos minerais, e os efeitos da cristalização são aparentes na sua geografia e nos seus edifícios. Reconhecimentos já foram conduzidos neste planeta, e a tecelagem pode começar a qualquer momento.",
+        "Module_5_map3": "Este planeta de rios feitos de lava, é famoso no universo pelos seus churrascos e lutas de gladiadores. Aviso: as temperaturas de sua superfície são superiores a 1000 graus Celsius, por isso os viajantes devem usar sempre dispositivos de arrefecimento ao explorar o planeta!",
+        "Module_5_map2": "Este planeta está coberto por uma variedade de vida marinha e corais, e o seu exterior está envolto num dossel de coral que tem sido significativamente danificado em algumas áreas pelos efeitos dos raios cósmicos ao longo dos anos.",
+        "Module_5_map6": "Um planeta escuro cercado por energia caótica, onde a energia erosiva exposta na superfície bloqueia muitas estradas, as plantas estão há muito tempo contaminadas, sendo um ambiente complexo e perigoso.",
+        "Module_5_map1": "Um planeta de muita ordem, com tecnologia e civilização muito desenvolvidas, nível industrial excelente, rede elétrica completa e desenvolvimento geral estável.",
+        "Module_5_map5": "Consiste em várias ilhas flutuantes que dependem principalmente da energia eólica. Possuem uma rede completa de tráfego aéreo e há diferentes funções entre as ilhas.",
+        "Module_5_name4":"Rocha-233",
+        "Module_5_name3":"Chama-237",
+        "Module_5_name2":"Fluido-259",
+        "Module_5_name6":"Caos-286",
+        "Module_5_name1":"Ordem-314",
+        "Module_5_name5":"Vento-297"
+    }
+}
