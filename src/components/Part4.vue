@@ -4,9 +4,13 @@
       <div class="mbox">
        
       </div>
-       
-    <img src="../assets/common/phoneImage/worldview/intro.png" alt="" class="ibottom">
+       <div class="ibottom">
+        <div class="word">
+          <p>{{$t(`world.Module_3_worldview5`)}}</p>
+        </div>
     
+       </div>
+   
     </div>
   </div>
 </template>
@@ -39,6 +43,22 @@ export default {
     height: 2.64rem;
     right: 0;
     bottom: 8%;
+    background: url("../assets/common/phoneImage/worldview/intro.png");
+    background-size: 100% 100%;
+    .word{
+     width: 5.3rem;
+    height: 1.8rem;
+    overflow-y: scroll;
+    margin-top: 0.3rem;
+    margin-left: 0.1rem;
+
+      p{
+    width: 4rem;
+    color: #fff;
+    font-size: 0.18rem;
+    text-align: left;
+      }
+    }
   }
 
 }

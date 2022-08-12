@@ -22,8 +22,78 @@
               </span>
             </div>
             <div class="mnews">
-                <HdScroll>
-                  
+                <HdScroll v-if="isShow == 'newsList1'">
+                  <div class="news-item"
+                  v-for="item in newsList4"
+                  :key="item.id"
+                 @click="
+                 $router.push({
+                  path: '/new',
+                  query:{id: item.id}
+                 })"
+                  >
+                  <div class="title-box">
+                    <span>{{item.title}}</span>
+                  </div>
+                  <div class="time">
+                   {{ item.releaseTime | dateFormat }}
+                  </div>
+                  </div>
+                </HdScroll>
+                <HdScroll v-if="isShow == 'newsList2'">
+                  <div class="news-item"
+                  v-for="item in newsList1"
+                  :key="item.id"
+                   @click="
+                 $router.push({
+                  path: '/new',
+                  query:{id: item.id}
+                 })"
+                
+                  >
+                  <div class="title-box">
+                    <span>{{item.title}}</span>
+                  </div>
+                  <div class="time">
+                   {{ item.releaseTime | dateFormat }}
+                  </div>
+                  </div>
+                </HdScroll>
+                <HdScroll v-if="isShow == 'newsList3'">
+                  <div class="news-item"
+                  v-for="item in newsList3"
+                  :key="item.id"
+                   @click="
+                 $router.push({
+                  path: '/new',
+                  query:{id: item.id}
+                 })"
+                  >
+                  <div class="title-box">
+                    <span>{{item.title}}</span>
+                  </div>
+                  <div class="time">
+                   {{ item.releaseTime | dateFormat }}
+                  </div>
+                  </div>
+                </HdScroll>
+                <HdScroll v-if="isShow == 'newsList4'">
+                  <div class="news-item"
+                  v-for="item in newsList2"
+                  :key="item.id"
+                   @click="
+                 $router.push({
+                  path: '/new',
+                  query:{id: item.id}
+                 })"
+                  >
+                  <div class="title-box">
+                    <span>{{item.title}}</span>
+                  </div>
+                  <div class="time">
+                   {{ item.releaseTime | dateFormat }}
+                  </div>
+                  </div>
                 </HdScroll>
             </div>
           </div>
@@ -36,20 +106,33 @@
 import Hdscroll from "./model/hdScroll.vue"
 import HdScroll from "./model/hdScroll.vue"
 export default {
+  props:["newsList1", "newsList2", "newsList3", "newsList4"],
     data() {
         return {
-            isShow: false
+            isShow: 'newsList1'
         };
     },
     comments: {
         Hdscroll,
     },
     methods: {
-        changeisshow() {
-            this.isShow = true;
+        changeisshow(val) {
+           console.log(val);
+            this.isShow = val;
         }
     },
-    components: { HdScroll }
+    components: { HdScroll },
+    filters:{
+      dateFormat(value){
+        let obj = new Date(value * 1000),
+         y = obj.getFullYear(),
+                m = obj.getMonth() + 1,
+                d = obj.getDate();
+            m = m < 10 ? "0" + m : m;
+            d = d < 10 ? "0" + d : d;
+            return y + "-" + m + "-" + d;
+      }
+    }
 }
 </script>
 
@@ -101,6 +184,29 @@ export default {
             color: #fff;
             margin: 0 0.2rem;
           }
+      }
+      .mnews{
+        .news-item{
+         color: #fff;
+         display: flex;
+         align-items: center;
+         margin-left: -0.3rem;
+         margin-top: 0.2rem;
+         .title-box{
+          width: 2.8rem;
+          font-size: 0.2rem;
+          overflow: hidden;
+           text-overflow: ellipsis; //溢出用省略号显示
+          white-space: nowrap; //溢出不换行
+          box-sizing: border-box;
+
+         }
+         .time {
+                        width: 2rem;
+                        font-size: 0.18rem;
+                    }
+
+        }
       }
       
     }

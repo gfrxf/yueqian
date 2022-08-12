@@ -2,7 +2,8 @@
   <div> 
     <div class="mcontain">
       <video class="video"
-      autoplay
+      data-autoplay
+     
       loop
       muted
       webkit-playsinline="true"
@@ -35,7 +36,7 @@
                     <span
                     v-for="(item,index) in this.langList"
                     :key="index"
-                    @click.stop="$emit('changeLang',item)" && this. = false
+                    @click.stop="$emit('changeLang',item)"
                     >
                       {{item}}
                     </span>
@@ -45,7 +46,7 @@
             <a href="" class="Discord"></a>
           </div>
         </div>
-       <img class="play" src="../assets/common/phoneImage/openScreen/play.png" alt="">
+       <img class="play" src="../assets/common/phoneImage/openScreen/play.png" alt="" @click="$emit('showVideo','KYrPf1J0UPQ')">
       <div class="mbottom">
         <a href="" class="apple"></a>
         <a href="" class="google"></a>               
